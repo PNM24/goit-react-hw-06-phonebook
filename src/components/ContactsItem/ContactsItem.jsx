@@ -1,4 +1,4 @@
-import style from './Contacts.module.css'
+import style from '../Contacts/Contacts.module.css'
 import PropTypes from 'prop-types'
 
 
